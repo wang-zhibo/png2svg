@@ -1,0 +1,16 @@
+# Web 框架
+fastapi==0.104.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+
+# 图像处理
+pillow==10.1.0
+numpy==1.26.1
+opencv-python==4.8.1.78
+svgwrite==1.4.3
+
+# 其他工具
+pydantic==2.4.2
+typing-extensions==4.8.0 
+
+xmi-logger==0.0.1
